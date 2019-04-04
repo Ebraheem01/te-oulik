@@ -1,0 +1,112 @@
+@media only screen and (max-width:320px) {
+    body {
+        margin: 0 auto;
+        padding: 0 2vw;
+        width: 100%;
+        display: block;
+    }
+    
+    .navBg {
+        background-color: white;
+    }
+
+    header {
+        background-image: url(../images/IMG-20190404-WA0018.jpg);
+        background-size: contain;
+        height: 75vh;
+        background-repeat: no-repeat;
+        width: 100%; 
+        background-attachment: fixed;
+        background-color: #d1d1d1;
+    }
+
+    .info-1 {
+        background-color: #d1d1d1;
+        height: 48vh;
+        text-align: center;
+        font-family: 'Dosis', sans-serif;
+        text-transform: uppercase;
+    }
+
+    h2 {
+        padding-top: 20vw;
+    }
+
+    p {
+        padding-left: 20vw;
+    }
+
+    .btn-1 {
+        background-color: black !important;
+        position: absolute;
+        left: 4vw;
+        top: 200vw;
+    }
+
+    .main-card-1 {
+        padding: 5vw 0;
+
+        
+    .card-2 {
+        background-image: url(/images/FB_IMG_1554372312141.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 110vh;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        width: 100%; 
+        text-align: center;
+        color: white;
+
+        h2 {
+            font-family: 'Dosis', sans-serif; 
+        }
+
+        h4 {
+            font-size: 4vw;
+        }
+
+        input {
+            background-color: #ffffff7a;
+            color: black;
+            padding: 2vw;
+            margin: 2vw;
+            width: 80vw;
+            border: .5px solid black;
+        }
+
+        .messageBox {
+            height: 20vh;
+        }
+
+        .sendBtn {
+            width: 80vw;
+            margin-left: .1vw;
+        }
+    }
+    }
+
+    .card-3 {
+        background-image: url(/images/IMG-20190404-WA0021.jpg);
+        background-size: cover;
+        height: 40vh;
+        background-repeat: no-repeat;
+        width: 100%; 
+    }
+
+    .about {
+        background-color: rgb(235, 235, 8);
+        height: 130vh;
+
+        h2 {
+            font-family: 'Dosis', sans-serif; 
+        }
+    }
+
+    footer {
+        margin-top: 4vw;
+        background-color: grey;
+        font-size: 1vw;
+        font-family: 'Dosis', sans-serif; 
+    }
+}
