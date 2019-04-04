@@ -91,7 +91,7 @@ body {
       .main-card-1 .card-2 h4 {
         font-size: 4vw; }
       .main-card-1 .card-2 input {
-        background-color: #ffffff7a;
+        background-color: #ffffff7a !important;
         color: black;
         padding: 2vw;
         margin: 2vw;
