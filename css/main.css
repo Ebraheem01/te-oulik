@@ -28,7 +28,7 @@ body {
   header {
     background-image: url(../images/IMG-20190404-WA0018.jpg);
     background-size: contain;
-    height: 75vh;
+    height: 80vh;
     background-repeat: no-repeat;
     width: 100%;
     background-attachment: fixed;
@@ -56,7 +56,7 @@ body {
   .main-card-1 {
     padding: 5vw 0; }
     .main-card-1 .card-2 {
-      background-image: url(/images/FB_IMG_1554372312141.jpg);
+      background-image: url(../images/FB_IMG_1554372312141.jpg);
       background-size: cover;
       background-position: center;
       height: 110vh;
@@ -83,7 +83,7 @@ body {
         margin-left: .1vw; }
 
   .card-3 {
-    background-image: url(/images/IMG-20190404-WA0021.jpg);
+    background-image: url(../images/IMG-20190404-WA0021.jpg);
     background-size: cover;
     height: 40vh;
     background-repeat: no-repeat;
