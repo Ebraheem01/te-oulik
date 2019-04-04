@@ -51,7 +51,6 @@ body {
     height: 80vh;
     background-repeat: no-repeat;
     width: 100%;
-    background-attachment: fixed;
     background-color: #d1d1d1; }
     header img {
       width: 20vw !important;
@@ -84,7 +83,6 @@ body {
       background-position: center;
       height: 110vh;
       background-repeat: no-repeat;
-      background-attachment: fixed;
       width: 100%;
       text-align: center;
       color: white; }
