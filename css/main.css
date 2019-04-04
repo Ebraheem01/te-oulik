@@ -51,6 +51,9 @@ body {
     width: 100%;
     background-attachment: fixed;
     background-color: #d1d1d1; }
+    header img {
+      width: 20vw !important;
+      height: 20vw !important; }
 
   .info-1 {
     background-color: #d1d1d1;
